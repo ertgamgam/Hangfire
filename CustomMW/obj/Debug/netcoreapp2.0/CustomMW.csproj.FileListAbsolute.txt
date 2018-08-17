@@ -1,0 +1,11 @@
+c:\users\ertugrul.gamgam\source\repos\CustomMW\CustomMW\obj\Debug\netcoreapp2.0\CustomMW.csprojAssemblyReference.cache
+c:\users\ertugrul.gamgam\source\repos\CustomMW\CustomMW\obj\Debug\netcoreapp2.0\CustomMW.csproj.CoreCompileInputs.cache
+c:\users\ertugrul.gamgam\source\repos\CustomMW\CustomMW\obj\Debug\netcoreapp2.0\CustomMW.AssemblyInfoInputs.cache
+c:\users\ertugrul.gamgam\source\repos\CustomMW\CustomMW\obj\Debug\netcoreapp2.0\CustomMW.AssemblyInfo.cs
+c:\users\ertugrul.gamgam\source\repos\CustomMW\CustomMW\bin\Debug\netcoreapp2.0\CustomMW.deps.json
+c:\users\ertugrul.gamgam\source\repos\CustomMW\CustomMW\bin\Debug\netcoreapp2.0\CustomMW.runtimeconfig.json
+c:\users\ertugrul.gamgam\source\repos\CustomMW\CustomMW\bin\Debug\netcoreapp2.0\CustomMW.runtimeconfig.dev.json
+c:\users\ertugrul.gamgam\source\repos\CustomMW\CustomMW\bin\Debug\netcoreapp2.0\CustomMW.dll
+c:\users\ertugrul.gamgam\source\repos\CustomMW\CustomMW\bin\Debug\netcoreapp2.0\CustomMW.pdb
+c:\users\ertugrul.gamgam\source\repos\CustomMW\CustomMW\obj\Debug\netcoreapp2.0\CustomMW.dll
+c:\users\ertugrul.gamgam\source\repos\CustomMW\CustomMW\obj\Debug\netcoreapp2.0\CustomMW.pdb
